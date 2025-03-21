@@ -12,4 +12,4 @@ This is an adaption of Peter Norvigs lisp interpreter lis.py as outlined in his 
 
 and can be used by cloning the repo and running the .py file. 
 
-(this was a educational project for CSE 324 at NMT, and as such also includes the report detailing how the constructs were implmented) 
+(this was a educational project for CSE 324 at NMT, and as such also includes the report detailing how the constructs were implemented) 
